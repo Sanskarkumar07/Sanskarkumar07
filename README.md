@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Sanskar Kumar! 👋
+🚀 About Me
+🎓 B.Tech Student specializing in Computer Science with Artificial Intelligence.
+🌱 Currently learning Java and exploring Data Structures and Algorithms.
+💡 Passionate about cutting-edge technology and creating AI-driven solutions.
+🔧 Skills & Tools
+Programming Languages: Java
+Core Knowledge: Data Structures, Algorithms, Artificial Intelligence
+Tools & Technologies: Git, VS Code, ChatGPT, Copilot.
+🌟 Goals
+Short Term: Master Java and implement advanced algorithms.
+Long Term: Build impactful projects using AI to solve real-world problems.
 
-<!--
-**Sanskarkumar07/Sanskarkumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect
+💼 LinkedIn : https://www.linkedin.com/in/sanskarkumar07/
+📧 Email: Kumarsanskarjha12@bbdec.ac.in
