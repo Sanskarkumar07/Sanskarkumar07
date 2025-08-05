@@ -13,5 +13,5 @@ Long Term: Build impactful projects using AI to solve real-world problems.
 
 
 📫 Let's Connect
-💼 LinkedIn : https://www.linkedin.com/in/sanskarkumar07/
+💼 LinkedIn : https://www.linkedin.com/in/sanskarkumar07/<br/>
 📧 Email: Kumarsanskarjha12@bbdec.ac.in
